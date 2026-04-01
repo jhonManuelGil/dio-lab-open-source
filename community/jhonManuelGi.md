@@ -27,14 +27,14 @@
 ## Descripción. 
 
 
-<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="30px"> Desarrollo y publicación de un Profile README personalizado para la comunidad de Digital Innovation One (DIO). El proyecto consistió en la creación de un archivo Markdown dinámico integrado en un ecosistema de código abierto
+<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="30px"> Desenvolvimento e publicação de um arquivo README personalizado para o perfil da comunidade Digital Innovation One (DIO). O projeto envolveu a criação de um arquivo Markdown dinâmico integrado a um ecossistema de código aberto.
 
 <br>
 
 ## Objetivo.
 
 
-<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="30px"> Fortalecer la presencia profesional en la comunidad técnica, compartiendo proyectos de datos, artículos y desafíos de código, mientras se demuestra el dominio de herramientas de control de versiones esenciales para el desarrollo colaborativo.
+<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="30px"> Fortaleça sua presença profissional na comunidade técnica compartilhando projetos de dados, artigos e desafios de programação, demonstrando domínio das ferramentas de controle de versão essenciais para o desenvolvimento colaborativo.
 
 <br>
 
